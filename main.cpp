@@ -9,8 +9,23 @@
 #include <string>
 using namespace std;
 
+class Solution
+{
+public:
+    vector<vector<int>> visited;
+
+}
+
+
 int main()
 {
-    cout << "hello world!" << endl;
+    vector<vector<char>> input =
+        {
+            {'O', 'O', 'O', 'O'},
+            {'D', 'O', 'D', 'O'},
+            {'O', 'O', 'O', 'O'},
+            {'X', 'D', 'D', 'O'},
+        };
+
     return 0;
 }
