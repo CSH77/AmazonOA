@@ -22,7 +22,7 @@
                 "echo": true,
                 "reveal": "always",
                 "focus": true,
-                "panel": "shared"
+                "panel":  "shared"
             }
         }
 
